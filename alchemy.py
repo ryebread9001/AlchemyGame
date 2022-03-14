@@ -28,7 +28,7 @@ items = [
 ["spear", "wood", "obsidian"],
 ["death", "spear", "life"],
 ["engine", "steam", "metal"],
-["vehicle", "engine", "metal"]
+["vehicle", "engine", "metal"],
 ["","",""]
 ]
 
